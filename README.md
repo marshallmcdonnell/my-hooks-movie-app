@@ -4,6 +4,8 @@ This is my work to implement the project from Samuel Omole's React Hooks Movie A
 
 His GitHub repo of the project can be found [here](https://github.com/samie820/hooks-movie-app)
 
+This is one of the projects in Simon Holdorf's suggested projects for improving your frontend skills in 2020 [blog post](https://dev.to/simonholdorf/9-projects-you-can-do-to-become-a-frontend-master-in-2020-n2h)
+
 # Prerequisites
 Things you need to get started:
 - A recent version of Node running on your machine (8.0 or higher), check this [link](https://nodejs.org/en/download/) to download it.
