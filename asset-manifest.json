@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/my-hooks-movie-app/static/css/main.751dcff7.chunk.css",
-    "main.js": "/my-hooks-movie-app/static/js/main.839e4b87.chunk.js",
-    "main.js.map": "/my-hooks-movie-app/static/js/main.839e4b87.chunk.js.map",
+    "main.js": "/my-hooks-movie-app/static/js/main.09b4026e.chunk.js",
+    "main.js.map": "/my-hooks-movie-app/static/js/main.09b4026e.chunk.js.map",
     "runtime-main.js": "/my-hooks-movie-app/static/js/runtime-main.ea292928.js",
     "runtime-main.js.map": "/my-hooks-movie-app/static/js/runtime-main.ea292928.js.map",
-    "static/js/2.7ea1d7bc.chunk.js": "/my-hooks-movie-app/static/js/2.7ea1d7bc.chunk.js",
-    "static/js/2.7ea1d7bc.chunk.js.map": "/my-hooks-movie-app/static/js/2.7ea1d7bc.chunk.js.map",
+    "static/js/2.9f324788.chunk.js": "/my-hooks-movie-app/static/js/2.9f324788.chunk.js",
+    "static/js/2.9f324788.chunk.js.map": "/my-hooks-movie-app/static/js/2.9f324788.chunk.js.map",
     "index.html": "/my-hooks-movie-app/index.html",
-    "precache-manifest.5f26d7b115f9184272e05117a75ffe3e.js": "/my-hooks-movie-app/precache-manifest.5f26d7b115f9184272e05117a75ffe3e.js",
+    "precache-manifest.b9d4db5080a438fa6e903b03301b3573.js": "/my-hooks-movie-app/precache-manifest.b9d4db5080a438fa6e903b03301b3573.js",
     "service-worker.js": "/my-hooks-movie-app/service-worker.js",
     "static/css/main.751dcff7.chunk.css.map": "/my-hooks-movie-app/static/css/main.751dcff7.chunk.css.map",
-    "static/js/2.7ea1d7bc.chunk.js.LICENSE": "/my-hooks-movie-app/static/js/2.7ea1d7bc.chunk.js.LICENSE"
+    "static/js/2.9f324788.chunk.js.LICENSE": "/my-hooks-movie-app/static/js/2.9f324788.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.ea292928.js",
-    "static/js/2.7ea1d7bc.chunk.js",
+    "static/js/2.9f324788.chunk.js",
     "static/css/main.751dcff7.chunk.css",
-    "static/js/main.839e4b87.chunk.js"
+    "static/js/main.09b4026e.chunk.js"
   ]
 }
